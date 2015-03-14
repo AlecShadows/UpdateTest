@@ -1,7 +1,7 @@
 # UpdateTest
 #qqqq
 # result after running the command:
-#增加文件的时候，比如增加hello.html的时候，命令如下：
+#增加文件(文件夹)的时候，比如增加hello.html的时候，命令如下：
 # git add hello.html
 #git commit -am "commit messages"
 #git push
